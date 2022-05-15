@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 582 382" style="enable-background:new 0 0 582 382;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D5E8D4;stroke:#82B366;stroke-width:2;}
+	.st1{font-family:'Verdana';}
+	.st2{font-size:12px;}
+	.st3{fill:#FFF2CC;stroke:#D6B656;stroke-width:2;}
+	.st4{fill:#FFE6CC;stroke:#D79B00;stroke-width:2;}
+	.st5{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st6{stroke:#000000;stroke-miterlimit:10;}
+	.st7{fill:#F8CECC;stroke:#B85450;stroke-width:2;}
+	.st8{fill:#DAE8FC;stroke:#6C8EBF;stroke-width:2;stroke-miterlimit:10;}
+	.st9{font-family:'Helvetica';}
+	.st10{fill:#E1D5E7;stroke:#9673A6;stroke-width:2;stroke-miterlimit:10;}
+	.st11{fill:#F5F5F5;stroke:#666666;stroke-width:2;stroke-miterlimit:10;}
+	.st12{fill:#333333;}
+	.st13{fill:#FFFFFF;stroke:#000000;stroke-width:2;}
+	.st14{fill:none;}
+	.st15{font-family:'Helvetica-Bold';}
+</style>
+<g>
+	<path pointer-events="all" class="st0" d="M8.5,81.5h146c3.9,0,7,3.1,7,7v26c0,3.9-3.1,7-7,7H8.5c-3.9,0-7-3.1-7-7v-26
+		C1.5,84.6,4.6,81.5,8.5,81.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 66.3799 105.5)" class="st1 st2">Conv</text>
+	</g>
+	<path pointer-events="all" class="st3" d="M8.5,121.5h146c3.9,0,7,3.1,7,7v26c0,3.9-3.1,7-7,7H8.5c-3.9,0-7-3.1-7-7v-26
+		C1.5,124.6,4.6,121.5,8.5,121.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 72.8984 145.5)" class="st1 st2">BN</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M8.5,161.5h146c3.9,0,7,3.1,7,7v26c0,3.9-3.1,7-7,7H8.5c-3.9,0-7-3.1-7-7v-26
+		C1.5,164.6,4.6,161.5,8.5,161.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 66.7637 185.5)" class="st1 st2">ReLu</text>
+	</g>
+	<path pointer-events="stroke" class="st5" d="M81.5,241.5v33.6"/>
+	<path pointer-events="all" class="st6" d="M81.5,280.4l-3.5-7l3.5,1.8l3.5-1.8L81.5,280.4z"/>
+	<path pointer-events="all" class="st7" d="M8.5,201.5h146c3.9,0,7,3.1,7,7v26c0,3.9-3.1,7-7,7H8.5c-3.9,0-7-3.1-7-7v-26
+		C1.5,204.6,4.6,201.5,8.5,201.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 69.0986 225.5)" class="st1 st2">Pool</text>
+	</g>
+	<path pointer-events="stroke" class="st5" d="M81.5,41.5v33.6"/>
+	<path pointer-events="all" class="st6" d="M81.5,80.4l-3.5-7l3.5,1.8l3.5-1.8L81.5,80.4z"/>
+	<path pointer-events="all" class="st8" d="M66,1.5h31c13.5,0,24.5,8.9,24.5,20s-11,20-24.5,20H66c-13.5,0-24.5-9-24.5-20
+		S52.5,1.5,66,1.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 68.1553 25.5)" class="st9 st2">Input</text>
+	</g>
+	<path pointer-events="all" class="st10" d="M66,281.5h31c13.5,0,24.5,9,24.5,20s-11,20-24.5,20H66c-13.5,0-24.5-9-24.5-20
+		S52.5,281.5,66,281.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 63.4883 305.5)" class="st9 st2">Output</text>
+	</g>
+	<path pointer-events="all" class="st0" d="M368.5,81.5h146c3.9,0,7,3.1,7,7v26c0,3.9-3.1,7-7,7h-146c-3.9,0-7-3.1-7-7v-26
+		C361.5,84.6,364.6,81.5,368.5,81.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 426.3799 105.5)" class="st1 st2">Conv</text>
+	</g>
+	<path pointer-events="all" class="st3" d="M368.5,121.5h146c3.9,0,7,3.1,7,7v26c0,3.9-3.1,7-7,7h-146c-3.9,0-7-3.1-7-7v-26
+		C361.5,124.6,364.6,121.5,368.5,121.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 432.8984 145.5)" class="st1 st2">BN</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M368.5,161.5h146c3.9,0,7,3.1,7,7v26c0,3.9-3.1,7-7,7h-146c-3.9,0-7-3.1-7-7v-26
+		C361.5,164.6,364.6,161.5,368.5,161.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 426.7637 185.5)" class="st1 st2">ReLu</text>
+	</g>
+	<path pointer-events="stroke" class="st5" d="M441.5,241.5v33.6"/>
+	<path pointer-events="all" class="st6" d="M441.5,280.4l-3.5-7l3.5,1.8l3.5-1.8L441.5,280.4z"/>
+	<path pointer-events="all" class="st7" d="M368.5,201.5h146c3.9,0,7,3.1,7,7v26c0,3.9-3.1,7-7,7h-146c-3.9,0-7-3.1-7-7v-26
+		C361.5,204.6,364.6,201.5,368.5,201.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 429.0986 225.5)" class="st1 st2">Pool</text>
+	</g>
+	<path pointer-events="stroke" class="st5" d="M501.5,21.5h-33.6"/>
+	<path pointer-events="all" class="st6" d="M462.6,21.5l7-3.5l-1.8,3.5l1.8,3.5L462.6,21.5z"/>
+	<path pointer-events="all" class="st11" d="M526,1.5h31c13.5,0,24.5,8.9,24.5,20s-11,20-24.5,20h-31c-13.5,0-24.5-9-24.5-20
+		S512.5,1.5,526,1.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 526.1602 25.5)" class="st12 st9 st2">Noise</text>
+	</g>
+	<path pointer-events="all" class="st10" d="M426,281.5h31c13.5,0,24.5,9,24.5,20s-11,20-24.5,20h-31c-13.5,0-24.5-9-24.5-20
+		S412.5,281.5,426,281.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 423.4883 305.5)" class="st9 st2">Output</text>
+	</g>
+	<path pointer-events="stroke" class="st5" d="M441.5,41.5v33.6"/>
+	<path pointer-events="all" class="st6" d="M441.5,80.4l-3.5-7l3.5,1.8l3.5-1.8L441.5,80.4z"/>
+	<ellipse pointer-events="all" class="st13" cx="441.5" cy="21.5" rx="20" ry="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 436.5898 25.5)" class="st1 st2">+</text>
+	</g>
+	<path pointer-events="stroke" class="st5" d="M381.5,21.5h33.6"/>
+	<path pointer-events="all" class="st6" d="M420.4,21.5l-7,3.5l1.8-3.5l-1.8-3.5L420.4,21.5z"/>
+	<path pointer-events="all" class="st8" d="M326,1.5h31c13.5,0,24.5,8.9,24.5,20s-11,20-24.5,20h-31c-13.5,0-24.5-9-24.5-20
+		S312.5,1.5,326,1.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 328.1553 25.5)" class="st9 st2">Input</text>
+	</g>
+	<rect x="1.5" y="351.5" pointer-events="all" class="st14" width="170" height="30"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 24.8184 370.5)" class="st15 st2">Original forward pass</text>
+	</g>
+	<rect x="351.5" y="351.5" pointer-events="all" class="st14" width="180" height="30"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 374.8174 370.5)" class="st15 st2">Proposed forward pass</text>
+	</g>
+</g>
+</svg>

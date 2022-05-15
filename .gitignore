@@ -1,0 +1,11 @@
+/data/*
+/data
+/log/*
+/log
+/model/*
+/model
+/tmp/*
+/tmp
+/__pycache__/*
+/__pycache__
+.DS_Store

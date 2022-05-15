@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 563 402" style="enable-background:new 0 0 563 402;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D5E8D4;stroke:#82B366;stroke-width:2;stroke-miterlimit:10;}
+	.st1{font-family:'Helvetica';}
+	.st2{font-size:12px;}
+	.st3{fill:#DAE8FC;stroke:#6C8EBF;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st5{stroke:#000000;stroke-miterlimit:10;}
+	.st6{font-family:'Verdana';}
+	.st7{font-size:11px;}
+	.st8{fill:#FFF2CC;stroke:#D6B656;stroke-width:2;}
+	.st9{fill:#FFE6CC;stroke:#D79B00;stroke-width:2;}
+	.st10{fill:#E1D5E7;stroke:#9673A6;stroke-width:2;stroke-miterlimit:10;}
+	.st11{fill:#F8CECC;stroke:#B85450;stroke-width:2;}
+	.st12{fill:none;}
+	.st13{font-family:'Verdana-Bold';}
+</style>
+<g>
+	<path pointer-events="all" class="st0" d="M146,1.5h31c13.5,0,24.5,8.9,24.5,20s-11,20-24.5,20h-31c-13.5,0-24.5-9-24.5-20
+		S132.5,1.5,146,1.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 148.1553 25.5)" class="st1 st2">Input</text>
+	</g>
+	<path pointer-events="all" class="st3" d="M26,81.5h31c13.5,0,24.5,8.9,24.5,20s-11,20-24.5,20H26c-13.5,0-24.5-8.9-24.5-20
+		S12.5,81.5,26,81.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 19.9316 105.5)" class="st1 st2">Weights</text>
+	</g>
+	<path pointer-events="stroke" class="st4" d="M81.5,181.5h53.6"/>
+	<path pointer-events="all" class="st5" d="M140.4,181.5l-7,3.5l1.8-3.5l-1.8-3.5L140.4,181.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 104.343 174.5)" class="st6 st7">int</text>
+	</g>
+	<path pointer-events="all" class="st3" d="M26,161.5h31c13.5,0,24.5,8.9,24.5,20s-11,20-24.5,20H26c-13.5,0-24.5-8.9-24.5-20
+		S12.5,161.5,26,161.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 23.4912 185.5)" class="st1 st2">Biases</text>
+	</g>
+	<path pointer-events="stroke" class="st4" d="M161.5,121.5v33.6"/>
+	<path pointer-events="all" class="st5" d="M161.5,160.4l-3.5-7l3.5,1.8l3.5-1.8L161.5,160.4z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 164.343 144.5)" class="st6 st7">int</text>
+	</g>
+	<path pointer-events="all" class="st8" d="M128.5,81.5h66c3.9,0,7,3.1,7,7v26c0,3.9-3.1,7-7,7h-66c-3.9,0-7-3.1-7-7v-26
+		C121.5,84.6,124.6,81.5,128.5,81.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 146.3799 105.5)" class="st6 st2">Conv</text>
+	</g>
+	<path pointer-events="stroke" class="st4" d="M161.5,201.5v33.6"/>
+	<path pointer-events="all" class="st5" d="M161.5,240.4l-3.5-7l3.5,1.8l3.5-1.8L161.5,240.4z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 164.343 224.5)" class="st6 st7">int</text>
+	</g>
+	<ellipse pointer-events="all" class="st9" cx="161.5" cy="181.5" rx="20" ry="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 156.5898 185.5)" class="st6 st2">+</text>
+	</g>
+	<path pointer-events="all" class="st10" d="M146,321.5h31c13.5,0,24.5,9,24.5,20s-11,20-24.5,20h-31c-13.5,0-24.5-9-24.5-20
+		S132.5,321.5,146,321.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 143.4883 345.5)" class="st1 st2">Output</text>
+	</g>
+	<path pointer-events="stroke" class="st4" d="M161.5,41.5v33.6"/>
+	<path pointer-events="all" class="st5" d="M161.5,80.4l-3.5-7l3.5,1.8l3.5-1.8L161.5,80.4z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 164.343 64.5)" class="st6 st7">int</text>
+	</g>
+	<path pointer-events="stroke" class="st4" d="M81.5,101.5h33.6"/>
+	<path pointer-events="all" class="st5" d="M120.4,101.5l-7,3.5l1.8-3.5l-1.8-3.5L120.4,101.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 94.343 94.5)" class="st6 st7">int</text>
+	</g>
+	<path pointer-events="stroke" class="st4" d="M161.5,281.5v33.6"/>
+	<path pointer-events="all" class="st5" d="M161.5,320.4l-3.5-7l3.5,1.8l3.5-1.8L161.5,320.4z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 164.343 304.5)" class="st6 st7">int</text>
+	</g>
+	<path pointer-events="all" class="st8" d="M128.5,241.5h66c3.9,0,7,3.1,7,7v26c0,3.9-3.1,7-7,7h-66c-3.9,0-7-3.1-7-7v-26
+		C121.5,244.6,124.6,241.5,128.5,241.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 146.7637 265.5)" class="st6 st2">ReLu</text>
+	</g>
+	<path pointer-events="all" class="st0" d="M506,1.5h31c13.5,0,24.5,8.9,24.5,20s-11,20-24.5,20h-31c-13.5,0-24.5-9-24.5-20
+		S492.5,1.5,506,1.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 508.1553 25.5)" class="st1 st2">Input</text>
+	</g>
+	<path pointer-events="stroke" class="st4" d="M401.5,41.5v33.6"/>
+	<path pointer-events="all" class="st5" d="M401.5,80.4l-3.5-7l3.5,1.8l3.5-1.8L401.5,80.4z"/>
+	<path pointer-events="all" class="st3" d="M386,1.5h31c13.5,0,24.5,8.9,24.5,20s-11,20-24.5,20h-31c-13.5,0-24.5-9-24.5-20
+		S372.5,1.5,386,1.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 379.9316 25.5)" class="st1 st2">Weights</text>
+	</g>
+	<path pointer-events="stroke" class="st4" d="M441.5,181.5h53.6"/>
+	<path pointer-events="all" class="st5" d="M500.4,181.5l-7,3.5l1.8-3.5l-1.8-3.5L500.4,181.5z"/>
+	<path pointer-events="all" class="st3" d="M386,161.5h31c13.5,0,24.5,8.9,24.5,20s-11,20-24.5,20h-31c-13.5,0-24.5-8.9-24.5-20
+		S372.5,161.5,386,161.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 383.4912 185.5)" class="st1 st2">Biases</text>
+	</g>
+	<path pointer-events="stroke" class="st4" d="M521.5,121.5v33.6"/>
+	<path pointer-events="all" class="st5" d="M521.5,160.4l-3.5-7l3.5,1.8l3.5-1.8L521.5,160.4z"/>
+	<path pointer-events="all" class="st8" d="M488.5,81.5h66c3.9,0,7,3.1,7,7v26c0,3.9-3.1,7-7,7h-66c-3.9,0-7-3.1-7-7v-26
+		C481.5,84.6,484.6,81.5,488.5,81.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 506.3799 105.5)" class="st6 st2">Conv</text>
+	</g>
+	<path pointer-events="stroke" class="st4" d="M521.5,201.5v33.6"/>
+	<path pointer-events="all" class="st5" d="M521.5,240.4l-3.5-7l3.5,1.8l3.5-1.8L521.5,240.4z"/>
+	<ellipse pointer-events="all" class="st9" cx="521.5" cy="181.5" rx="20" ry="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 516.5898 185.5)" class="st6 st2">+</text>
+	</g>
+	<path pointer-events="all" class="st10" d="M386,321.5h31c13.5,0,24.5,9,24.5,20s-11,20-24.5,20h-31c-13.5,0-24.5-9-24.5-20
+		S372.5,321.5,386,321.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 383.4883 345.5)" class="st1 st2">Output</text>
+	</g>
+	<path pointer-events="stroke" class="st4" d="M521.5,41.5v33.6"/>
+	<path pointer-events="all" class="st5" d="M521.5,80.4l-3.5-7l3.5,1.8l3.5-1.8L521.5,80.4z"/>
+	<path pointer-events="stroke" class="st4" d="M481.5,261.5h-33.6"/>
+	<path pointer-events="all" class="st5" d="M442.6,261.5l7-3.5l-1.8,3.5l1.8,3.5L442.6,261.5z"/>
+	<path pointer-events="all" class="st8" d="M488.5,241.5h66c3.9,0,7,3.1,7,7v26c0,3.9-3.1,7-7,7h-66c-3.9,0-7-3.1-7-7v-26
+		C481.5,244.6,484.6,241.5,488.5,241.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 506.7637 265.5)" class="st6 st2">ReLu</text>
+	</g>
+	<path pointer-events="stroke" class="st4" d="M441.5,101.5h33.6"/>
+	<path pointer-events="all" class="st5" d="M480.4,101.5l-7,3.5l1.8-3.5l-1.8-3.5L480.4,101.5z"/>
+	<path pointer-events="all" class="st11" d="M368.5,81.5h66c3.9,0,7,3.1,7,7v26c0,3.9-3.1,7-7,7h-66c-3.9,0-7-3.1-7-7v-26
+		C361.5,84.6,364.6,81.5,368.5,81.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 372.8096 105.5)" class="st6 st2">Wt Quant</text>
+	</g>
+	<path pointer-events="stroke" class="st4" d="M401.5,281.5v33.6"/>
+	<path pointer-events="all" class="st5" d="M401.5,320.4l-3.5-7l3.5,1.8l3.5-1.8L401.5,320.4z"/>
+	<path pointer-events="all" class="st11" d="M368.5,241.5h66c3.9,0,7,3.1,7,7v26c0,3.9-3.1,7-7,7h-66c-3.9,0-7-3.1-7-7v-26
+		C361.5,244.6,364.6,241.5,368.5,241.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 371.5146 265.5)" class="st6 st2">Act Quant</text>
+	</g>
+	<rect x="16.5" y="381.5" pointer-events="all" class="st12" width="170" height="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 25.1904 395.5)" class="st13 st2">Integer-only inference</text>
+	</g>
+	<rect x="381.5" y="381.5" pointer-events="all" class="st12" width="170" height="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 388.2393 395.5)" class="st13 st2">Simulated quantization</text>
+	</g>
+</g>
+</svg>
